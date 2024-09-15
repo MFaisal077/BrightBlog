@@ -1,0 +1,2 @@
+# BrightBlog
+A Blogging Site
